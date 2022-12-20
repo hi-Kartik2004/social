@@ -1,5 +1,5 @@
 # Social media website using php
-  ##Features included :
+  ### Features included :
     1. Login system with Email verification.
     2. Edit Profile page.
     3. Follow and Unfollow.
